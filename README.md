@@ -14,6 +14,14 @@
 
 ###
 
+<h2 align="left">Estou estudando:</h2>
+
+###
+
+<p align="left">🟣JavaScript<br>🟣PHP<br>🟣Design UI/UX</p>
+
+###
+
 <img align="right" height="165" src="https://cdn-wcsm.alura.com.br/2025/04/gatinho-digitando.gif"  />
 
 ###
