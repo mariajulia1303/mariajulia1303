@@ -32,6 +32,10 @@
 
 ###
 
+<img align="right" height="134" src="https://cdn-wcsm.alura.com.br/2025/04/gatinho-digitando.gif"  />
+
+###
+
 <h2 align="left"></h2>
 
 ###
