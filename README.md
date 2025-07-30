@@ -1,4 +1,4 @@
-<h1 align="left">Eu sou a Maria Júlia e seja bem-vindo(a) ao meu GitHub!💜👩‍💻</h1>
+<h1 align="left">Eu sou a Maria Júlia e seja bem-vindo(a) ao meu GitHub!💜👩🏻‍💻</h1>
 
 ###
 
@@ -19,10 +19,6 @@
 ###
 
 <p align="left">🟣JavaScript<br>🟣PHP<br>🟣Design UI/UX</p>
-
-###
-
-<img align="right" height="165" src="https://cdn-wcsm.alura.com.br/2025/04/gatinho-digitando.gif"  />
 
 ###
 
