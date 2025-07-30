@@ -14,6 +14,10 @@
 
 ###
 
+<img align="right" height="165" src="https://cdn-wcsm.alura.com.br/2025/04/gatinho-digitando.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -29,10 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<img align="right" height="134" src="https://cdn-wcsm.alura.com.br/2025/04/gatinho-digitando.gif"  />
 
 ###
 
