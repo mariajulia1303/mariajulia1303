@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estou sempre em busca de aprimorar minhas técnicas como desenvolvedora, me aprofundando cada vez mais nesse mundo tão vasto e cheio de oportunidades. Iniciei na área a pouco tempo mas estou ansiosa para continuar desenvolvendo minhas habilidades técnicas e crescer cada dia mais profissionalmente e pessoalmente.</p>
+<p align="left">Estou sempre em busca de aprimorar minhas técnicas como desenvolvedora, me aprofundando cada vez mais nesse mundo tão vasto e cheio de oportunidades. Iniciei na área há pouco tempo mas estou ansiosa para continuar desenvolvendo minhas habilidades técnicas e crescer cada dia mais profissionalmente e pessoalmente.</p>
 
 ###
 
@@ -15,6 +15,10 @@
 ###
 
 <img align="right" height="165" src="https://cdn-wcsm.alura.com.br/2025/04/gatinho-digitando.gif"  />
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
@@ -47,6 +51,13 @@
   <a href="https://www.instagram.com/majuu_ssouza/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <a href="https://mail.google.com/mail/u/0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
